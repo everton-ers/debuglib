@@ -1,0 +1,16 @@
+{
+    "name": "everton-ers/new",
+	everton-ers/debuglib
+    },
+    "minimum-stability": "alpha",
+    "authors": [
+        {
+            "name": "Thomas Schüßler",
+            "email": "debuglib@atomar.de"
+        },
+        {
+            "name": "everton r",
+            "email": "debuglib@tconibo.com"
+        },
+    ]
+}
