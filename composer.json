@@ -1,6 +1,7 @@
 {
-    "name": "everton-ers",
-	everton-ers/debuglib
+    "name": "everton-ers/debuglib",
+    "require": {
+        "everton-ers/debuglib": "0.45"
     },
     "minimum-stability": "alpha",
     "authors": [
