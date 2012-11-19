@@ -1,5 +1,6 @@
 {
     "name": "everton-ers/debuglib",
+    "description": "debuglib: See what's going on inside your PHP variables!",
     "require": {
         "everton-ers/debuglib": "0.45"
     },
